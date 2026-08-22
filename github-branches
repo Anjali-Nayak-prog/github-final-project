@@ -1,0 +1,7 @@
+Command:
+git branch -vv
+
+Output:
+* bug-fix-revert c2afbf6 [origin/bug-fix-revert] Fix typo in README
+  bug-fix-typo   c2afbf6 [origin/bug-fix-typo] Fix typo in README
+  main           c2afbf6 [origin/main] Fix typo in README
