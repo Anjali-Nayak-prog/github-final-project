@@ -2,6 +2,6 @@ Command:
 git branch -vv
 
 Output:
-* bug-fix-revert c2afbf6 [origin/bug-fix-revert] Fix typo in README
-  bug-fix-typo   c2afbf6 [origin/bug-fix-typo] Fix typo in README
-  main           c2afbf6 [origin/main] Fix typo in README
+  bug-fix-revert 6fbc610 [origin/bug-fix-revert] Add Git branch status output
+  bug-fix-typo   35314cd [origin/bug-fix-typo] Fix typo in README
+  main           8e15315 [origin/main] Update merge branch evidence
