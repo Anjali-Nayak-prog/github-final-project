@@ -1,8 +1,8 @@
 Command:
-curl.exe -s https://api.github.com/repos/Anjali-Nayak-prog/mcino-Introduction-to-Git-and-GitHub | Select-String '"fork"|"parent"|"full_name"'
+curl.exe -s https://api.github.com/repos/Anjali-Nayak-prog/github-final-project | Select-String '"fork"|"parent"|"full_name"'
 
 Output:
-"full_name": "Anjali-Nayak-prog/mcino-Introduction-to-Git-and-GitHub",
+"full_name": "Anjali-Nayak-prog/github-final-project",
 "fork": true,
 "parent": {
 "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
